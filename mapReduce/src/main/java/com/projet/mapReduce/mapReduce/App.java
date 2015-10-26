@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Coucou Pierre" );
         System.out.println( "Coucou Pierre1" );
+        System.out.println( "Coucou Pierre2" );
     }
 }
